@@ -1,6 +1,6 @@
 # DSA Coding Preparation
 
-This repository contains a collection of Java programs to aid in coding practice for STS (Software Technical Skills) preparation. Each program focuses on different algorithms and data structure problems.
+This repository contains a collection of Java programs to aid in coding practice for Software Technical Skills preparation. Each program focuses on different algorithms and data structure problems.
 
 ## Programs Included:
 1. **Block Swap** - Implements block swapping technique
