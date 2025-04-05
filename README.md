@@ -1,4 +1,4 @@
-# STS Coding Preparation
+# DSA Coding Preparation
 
 This repository contains a collection of Java programs to aid in coding practice for STS (Software Technical Skills) preparation. Each program focuses on different algorithms and data structure problems.
 
