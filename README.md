@@ -39,7 +39,7 @@ This repository contains a collection of Java programs to aid in coding practice
 - Run the programs to test and practice solving the related problems.
 
 ## Purpose:
-These programs cover essential algorithms and data structure problems, helping you sharpen your coding skills for STS preparation.
+These programs cover essential algorithms and data structure problems, helping you sharpen your coding skills for DSA preparation.
 
 ## License:
 This repository is open-source and available for public use.
