@@ -1,6 +1,4 @@
-
-// part 2
-
+// Changes made in the branch 1
 public class _1_SimpleSieve {
     public static void main(String[] args) {
         simpleSieve(50);
