@@ -1,4 +1,4 @@
-// changes made in the new branchdfd 
+// part 2
 public class _1_SimpleSieve {
     public static void main(String[] args) {
         simpleSieve(50);
